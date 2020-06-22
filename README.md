@@ -1,6 +1,8 @@
-# ContractsSpa
+# Contracts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Development server
 
