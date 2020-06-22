@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Contract list](https://github.com/superbosspeym/contracts/blob/master/contacts_list.png)
 
 ## Development server
 
